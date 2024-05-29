@@ -42,7 +42,6 @@ public class AddressSearch {
 //
 //            // Scanner 객체를 닫음 (권장 사항)
 //            scanner.close();
-
             String keyword = "충청남도 아산시 염치읍 현대로 1077"; // 검색어 설정
             String currentPage = "1"; // 현재 페이지
             String countPerPage = "10"; // 페이지 당 결과 수
