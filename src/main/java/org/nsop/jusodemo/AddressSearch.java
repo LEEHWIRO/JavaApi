@@ -57,6 +57,7 @@ public class AddressSearch {
 
 
             // URL 생성
+
             String urlStr = "http://192.168.10.101:8983/app/search/addrSearchApi.do" +
                     "?keyword=" + URLEncoder.encode(keyword, "UTF-8") +
                     "&currentPage=" + URLEncoder.encode(currentPage, "UTF-8") +
